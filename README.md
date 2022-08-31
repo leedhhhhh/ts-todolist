@@ -47,7 +47,7 @@ Default 카테고리를 ENUM 으로 관리하다가 카테고리를 추가해주
 <br /><br/>
 
 ### 3. 카테고리 이동 기능
-<img src="https://user-images.githubusercontent.com/86703459/187611517-4b3667ed-5810-42cf-821a-a3dbf692685b.PNG" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/86703459/187611517-4b3667ed-5810-42cf-821a-a3dbf692685b.PNG" width="1000" height="400" />
 
 <br /><br />
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# ToDoList 🔐
+# ToDoList 📰
 
 <img src="https://user-images.githubusercontent.com/86703459/187608838-bc87e3d8-da61-49c9-98b8-1d3042ad36d1.gif" width="400" height="400" />
 <img src="https://user-images.githubusercontent.com/86703459/187608844-c2c53269-83dd-4e50-9a82-8e95e6357c61.gif" width="400" height="400" />

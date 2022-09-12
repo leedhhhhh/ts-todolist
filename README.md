@@ -66,6 +66,10 @@
 - [ ] React나 TypeScript에 좀 더 비중을 두면서 JavaScript 공부에 조금 소홀히 하고 있었는데
 필요한 기능을 개발하면서 아무리 편하고 좋은 라이브러리라도 그런 라이브러리가 만들어질수 있었던 이유는 JavaScript 이며 JavaScript 공부에 조금 더 집중해야겠다는 계기를 가지게 해준 좋은 토이프로젝트였다.
 
+<br /><br />
+
+## page
+https://leedhhhhh.github.io/ts-todolist/
 
 
 

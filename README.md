@@ -68,8 +68,7 @@
 
 <br /><br />
 
-## page
-https://leedhhhhh.github.io/ts-todolist/
+
 
 
 
